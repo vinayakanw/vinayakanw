@@ -4,7 +4,7 @@
 <p><code>SOFTWARE ENGINEER</code> · <code>FULL-STACK DEVELOPER</code> · <code>APP DEVELOPER</code> · <code>OFFENSIVE SECURITY</code></p>
 
 <p>
-  <a href="https://github.com/VINAYAKANWALISHETTAR"><img src="https://img.shields.io/badge/GitHub-Explore-101820?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/></a>
+  <a href="https://github.com/vinayakanw"><img src="https://img.shields.io/badge/GitHub-Explore-101820?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/></a>
   <a href="https://www.nayaka100.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-101820?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio"/></a>
   <a href="https://kavalu-labs.nayaka100.in/"><img src="https://img.shields.io/badge/Kavalu_Labs-Explore-101820?style=for-the-badge&logo=hackthebox&logoColor=00E5FF" alt="Kavalu Labs"/></a>
 </p>
