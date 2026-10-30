@@ -34,7 +34,7 @@
 │ Location   : Hubli, Karnataka, India
 │ Education  : B.Tech Computer Science
 │ University : VTU Belagavi (2023–2027)
-│ CGPA       : 8.6 / 10
+│ CGPA       : 8.2 / 10
 │ Internship : Intern — Nantech Solutions
 └─[ STATUS ] : Building • Learning • Securing
 ```
