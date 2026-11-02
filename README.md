@@ -1,7 +1,7 @@
 <div align="center">
 <h1>ನಮಸ್ಕಾರ, <br> I'm Vinayaka N. Walishettar</h1>
 
-<p><code>SOFTWARE ENGINEER</code> · <code>FULL-STACK DEVELOPER</code> · <code>APP DEVELOPER</code> · <code>OFFENSIVE SECURITY</code></p>
+<p><code>SOFTWARE ENGINEER</code> · <code>FULL-STACK DEVELOPER</code> · <code>APP DEVELOPER</code> · <code>OFFENSIVE SECURITY ENGINER</code></p>
 
 <p>
   <a href="https://github.com/vinayakanw"><img src="https://img.shields.io/badge/GitHub-Explore-101820?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/></a>
