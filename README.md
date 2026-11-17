@@ -2,7 +2,7 @@
 
 # ನಮಸ್ಕಾರ, I'm Vinayaka N. Walishettar
 
-**Software Engineer · Full-Stack Developer · App Developer · Offensive Security**
+* I build web apps, then try to break them.**
 
 [Portfolio ↗](https://www.nayaka100.in/) &nbsp;|&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/vinayaka-n-walishettar/) &nbsp;|&nbsp; [Kavalu Labs ↗](https://kavalu-labs.nayaka100.in/)
 
@@ -34,15 +34,17 @@
 
 <sub>Listed technologies reflect my toolkit and learning interests; proficiency varies by tool.</sub>
 
-## Kavalu Labs
+## [**Kavalu Labs**](https://kavalu-labs.nayaka100.in/)
 
-[**Kavalu Labs**](https://kavalu-labs.nayaka100.in/) is my build lab for developing security tools and the platform around them.
+AI coding tools let anyone ship an app in a day, but nobody watches it after launch. [Kavalu Labs](https://kavalu-labs.nayaka100.in/) is my attempt to fix that with one loop: **scan before launch, watch after launch, fix with approval.**
 
-- **Security checks:** TLS configuration, HTTP security headers, cookie attributes, redirects, and information exposure.
-- **Findings:** Evidence, potential impact, and remediation guidance, with OWASP Top 10 concepts as a reference.
-- **Platform:** The scanning engine, application workflow, and security reporting experience.
+| Part | What it does | Status |
+|:--|:--|:--|
+| **Security Engine** | Scans a live web page for injection flaws, TLS and header problems, risky cookie and CORS settings, and exposed files like `.env` and `.git`. Produces an evidence-backed report with fixes. | Built |
+| **Security Agent** | Reads logs and API calls, finds attack patterns, and explains each incident in plain language. | Planned |
+| **Skill** | A one-command install that adds both to a coding agent. A human approves every change. | Planned |
 
-> **Authorization first:** testing is limited to systems and targets for which permission has been granted.
+> **Authorization first:** I test only systems I own or have written permission to test.
 
 ## Projects
 
