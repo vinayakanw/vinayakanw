@@ -2,7 +2,7 @@
 
 # ನಮಸ್ಕಾರ, I'm Vinayaka N. Walishettar
 
-* I build web apps, then try to break them.**
+I build web apps, then try to break them.
 
 [Portfolio ↗](https://www.nayaka100.in/) &nbsp;|&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/vinayaka-n-walishettar/) &nbsp;|&nbsp; [Kavalu Labs ↗](https://kavalu-labs.nayaka100.in/)
 
@@ -15,14 +15,6 @@
 - **Location:** Hubli, Karnataka, India
 - **Education:** B.Tech in Computer Science, VTU Belagavi (2023–2027)
 - **Experience:** Intern, Nantech Solutions
-
-## Focus Areas
-
-- **Software Engineering:** Backend systems, API design, clean architecture, and maintainable code.
-- **Full-Stack Development:** End-to-end web applications, responsive interfaces, and cross-platform solutions.
-- **Cloud & DevOps:** AWS fundamentals, Linux, containerization, CI/CD, and deployment automation.
-- **Application Security:** Secure-by-design development, attack-surface analysis, reconnaissance, and vulnerability assessment.
-- **Offensive Security:** Ethical hacking, web application penetration testing, exploit analysis, and authorized security labs.
 
 ## Tech Stack
 
